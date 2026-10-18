@@ -20,10 +20,8 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🛠️ I’m currently working on [Secret project](https://github.com/DaniuPl)  
-  
-
-- 📖I’m currently learning Unreal Engine & C++  
+- 🛠️ I’m currently working on [ThreadOS](https://github.com/DaniuPl/ThreadOS)  
+ 
 
 
 </td><td valign="top" width="50%">
